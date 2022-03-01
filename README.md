@@ -45,7 +45,7 @@
 
 | 👯 취업정보 기능 | 💁 시간표 기능 |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/72147069/156175131-2669f1fc-73a6-4e2e-a916-277654e5186d.PNG" width=100%> | <img src="https://user-images.githubusercontent.com/84698168/156176686-0d104fb8-4810-414d-a12a-dacbf239c309.png" width=100%> |
+| <img src="https://user-images.githubusercontent.com/72147069/156175131-2669f1fc-73a6-4e2e-a916-277654e5186d.PNG" width=100%> | <img src="https://user-images.githubusercontent.com/84698168/156176686-0d104fb8-4810-414d-a12a-dacbf239c309.png" width=70%> |
 
 | 🍓 게시요청 기능 | 🔎 관리자 기능 |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
