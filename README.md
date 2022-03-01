@@ -9,6 +9,9 @@
 <p align="center">
   <img alt="image_main" src="https://via.placeholder.com/150">
 </p>
+
+
+## Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=white&style=flat-square"> &nbsp;
@@ -24,7 +27,7 @@
 </p>
 
 
-**MYCAMPUS 목적** </br> 
+**MYCAMPUS 제작 목적** </br> 
 - 소통을 원하는 학생들에게 자유로운 커뮤니티활동을 제공해준다.
 - 학생들이 자체적으로 동아리를 모집하고 관리하는 교내 동아리 신청관리 서비스를 간편하게 제공한다.
 - 인증절차를 통한 안전한 중고거래를 지원한다.
