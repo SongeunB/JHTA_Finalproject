@@ -7,7 +7,7 @@
 ## 🍻 주제: 대학교 커뮤니티 사이트
 
 <p align="center">
-  <img alt="image_main" src="https://via.placeholder.com/150">
+  <img alt="image_main" src="https://user-images.githubusercontent.com/84698168/156176108-c6022f86-56ad-4120-8932-181ef1e846db.gif" width=70%>
 </p>
 
 
@@ -27,15 +27,14 @@
 </p>
 
 
-**MYCAMPUS 제작 목적** </br> 
+**MYCAMPUS 제작 목적**
 - 소통을 원하는 학생들에게 자유로운 커뮤니티활동을 제공해준다.
 - 학생들이 자체적으로 동아리를 모집하고 관리하는 교내 동아리 신청관리 서비스를 간편하게 제공한다.
 - 인증절차를 통한 안전한 중고거래를 지원한다.
 - 채용공고를 한눈에 확인하고 원하는 공고는 스크랩을 하여 취업활동을 지원한다.
 - 익명의 강의평가를 제공하고 시간표구성 및 저장, 학점계산기를 통해 편리한 학사관리를 가능하게 한다.
-</br>
-</br>
-</p>
+
+
 ## 🚀 Demo
 
 | 👍 회원 기능 | 🌟 커뮤니티 기능 |
@@ -48,7 +47,7 @@
 
 | 👯 취업정보 기능 | 💁 시간표 기능 |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/72147069/156175131-2669f1fc-73a6-4e2e-a916-277654e5186d.PNG" width=100%> | <img src="https://via.placeholder.com/150" alt=" " width=80%> |
+| <img src="https://user-images.githubusercontent.com/72147069/156175131-2669f1fc-73a6-4e2e-a916-277654e5186d.PNG" width=100%> | <img src="https://user-images.githubusercontent.com/84698168/156176686-0d104fb8-4810-414d-a12a-dacbf239c309.png" width=100%> |
 
 | 🍓 게시요청 기능 | 🔎 관리자 기능 |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -61,4 +60,4 @@
 
 ## 🌈 Members
 
-| [백송은]() | [백승한]() | [안성진]() | [하지은](https://github.com/noixhwb) | [한상훈]() |
+| [백송은](https://github.com/SongeunB) | [백승한]() | [안성진]() | [하지은](https://github.com/noixhwb) | [한상훈]() |
