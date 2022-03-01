@@ -2,16 +2,14 @@
 
 # MYCAMPUS
 
----
-
-## 🍻 주제: 대학교 커뮤니티 사이트
+## 🍻 주제: 대학교 커뮤니티 사이트 
 
 <p align="center">
   <img alt="image_main" src="https://user-images.githubusercontent.com/84698168/156176108-c6022f86-56ad-4120-8932-181ef1e846db.gif" width=70%>
 </p>
 
 
-## Skills
+## 🔥 Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=white&style=flat-square"> &nbsp;
@@ -27,7 +25,7 @@
 </p>
 
 
-**MYCAMPUS 제작 목적**
+## 👉 제작 목적
 - 소통을 원하는 학생들에게 자유로운 커뮤니티활동을 제공해준다.
 - 학생들이 자체적으로 동아리를 모집하고 관리하는 교내 동아리 신청관리 서비스를 간편하게 제공한다.
 - 인증절차를 통한 안전한 중고거래를 지원한다.
