@@ -7,7 +7,8 @@
 <p align="center">
   <img alt="image_main" src="https://user-images.githubusercontent.com/84698168/156176108-c6022f86-56ad-4120-8932-181ef1e846db.gif" width=70%>
 </p>
-
+<br>
+<br>
 
 ## 🔥 Skills
 <p align="center">
@@ -23,7 +24,8 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?&logo=jQuery&logoColor=white&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=Bootstrap&logoColor=white&style=flat-square"> &nbsp;
 </p>
-
+<br>
+<br>
 
 ## 👉 제작 목적
 - 소통을 원하는 학생들에게 자유로운 커뮤니티활동을 제공해준다.
@@ -31,7 +33,8 @@
 - 인증절차를 통한 안전한 중고거래를 지원한다.
 - 채용공고를 한눈에 확인하고 원하는 공고는 스크랩을 하여 취업활동을 지원한다.
 - 익명의 강의평가를 제공하고 시간표구성 및 저장, 학점계산기를 통해 편리한 학사관리를 가능하게 한다.
-
+<br>
+<br>
 
 ## 🚀 Demo
 
@@ -45,7 +48,7 @@
 
 | 👯 취업정보 기능 | 💁 시간표 기능 |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/72147069/156175131-2669f1fc-73a6-4e2e-a916-277654e5186d.PNG" width=100%> | <img src="https://user-images.githubusercontent.com/84698168/156179686-04fa7503-1bce-4a87-bee2-3780d165d65f.JPG" width=100%> |
+| <img src="https://user-images.githubusercontent.com/72147069/156175131-2669f1fc-73a6-4e2e-a916-277654e5186d.PNG" width=100%> | <img src="https://user-images.githubusercontent.com/72147069/156180292-c61fb608-a99f-46b1-91f4-1159d2f21a60.PNG" width=100%> |
 
 | 🍓 게시요청 기능 | 🔎 관리자 기능 |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -54,7 +57,6 @@
 </br>
 
 ---
-
 
 ## 🌈 Members
 
