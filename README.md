@@ -60,13 +60,13 @@
 
 | 📅 시간표 생성 | 📅 시간표 캡쳐 | 📅 시간표 저장&불러오기 |
 | :----------------: | :----------------: | :----------------: |
-| <img src="https://user-images.githubusercontent.com/84698168/156184483-03db9b04-26d5-4caa-a557-0b9cbd523ef4.gif" width=100%> | <img src="https://user-images.githubusercontent.com/84698168/156190596-4756a03e-cf33-4ee5-91e5-bbc73f123cad.gif" width=100%> | <img src="https://user-images.githubusercontent.com/84698168/156190096-98bbdc6f-3188-4894-8b7c-7c170ce6cf73.gif" width=100%> |
+| <img src="https://user-images.githubusercontent.com/84698168/156184483-03db9b04-26d5-4caa-a557-0b9cbd523ef4.gif" width=80%> | <img src="https://user-images.githubusercontent.com/84698168/156190596-4756a03e-cf33-4ee5-91e5-bbc73f123cad.gif" width=80%> | <img src="https://user-images.githubusercontent.com/84698168/156190096-98bbdc6f-3188-4894-8b7c-7c170ce6cf73.gif" width=80%> |
 | 📝 강의목록 검색 | 📝 강의평가 보기&작성 | 📝 내 강의평가 수정&삭제 |
 | :----------------: | :----------------: | :----------------: |
-| <img src="https://user-images.githubusercontent.com/84698168/156184483-03db9b04-26d5-4caa-a557-0b9cbd523ef4.gif" width=100%> | <img src="https://user-images.githubusercontent.com/84698168/156190596-4756a03e-cf33-4ee5-91e5-bbc73f123cad.gif" width=100%> | <img src="https://user-images.githubusercontent.com/84698168/156190096-98bbdc6f-3188-4894-8b7c-7c170ce6cf73.gif" width=100%> |
+| <img src="https://user-images.githubusercontent.com/84698168/156184483-03db9b04-26d5-4caa-a557-0b9cbd523ef4.gif" width=80%> | <img src="https://user-images.githubusercontent.com/84698168/156190596-4756a03e-cf33-4ee5-91e5-bbc73f123cad.gif" width=80%> | <img src="https://user-images.githubusercontent.com/84698168/156190096-98bbdc6f-3188-4894-8b7c-7c170ce6cf73.gif" width=80%> |
 | 💯 시간표 생성 기능 | 💯 시간표 캡쳐 기능 | 💯 시간표 저장 및 불러오기 기능 |
 | :----------------: | :----------------: | :----------------: |
-| <img src="https://user-images.githubusercontent.com/84698168/156184483-03db9b04-26d5-4caa-a557-0b9cbd523ef4.gif" width=100%> | <img src="https://user-images.githubusercontent.com/84698168/156190596-4756a03e-cf33-4ee5-91e5-bbc73f123cad.gif" width=100%> | <img src="https://user-images.githubusercontent.com/84698168/156190096-98bbdc6f-3188-4894-8b7c-7c170ce6cf73.gif" width=100%> |
+| <img src="https://user-images.githubusercontent.com/84698168/156184483-03db9b04-26d5-4caa-a557-0b9cbd523ef4.gif" width=80%> | <img src="https://user-images.githubusercontent.com/84698168/156190596-4756a03e-cf33-4ee5-91e5-bbc73f123cad.gif" width=80%> | <img src="https://user-images.githubusercontent.com/84698168/156190096-98bbdc6f-3188-4894-8b7c-7c170ce6cf73.gif" width=80%> |
 
 ---
 
