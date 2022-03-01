@@ -52,7 +52,7 @@
 
 | 🍓 게시요청 기능 | 🔎 관리자 기능 |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/72147069/156175150-a6843376-c72c-449b-9d90-b71150ffc636.PNG" width=100%> | <img src="https://user-images.githubusercontent.com/72147069/156175236-915984a9-19e6-4113-b089-f18a36956795.PNG" width=80%> |
+| <img src="https://user-images.githubusercontent.com/72147069/156175150-a6843376-c72c-449b-9d90-b71150ffc636.PNG" width=100%> | <img src="https://user-images.githubusercontent.com/72147069/156175236-915984a9-19e6-4113-b089-f18a36956795.PNG" width=100%> |
 </br>
 </br>
 
@@ -61,4 +61,4 @@
 
 ## 🌈 Members
 
-| [백송은]() | [백승한]() | [안성진]() | [하지은]() | [한상훈]() |
+| [백송은]() | [백승한]() | [안성진]() | [하지은](https://github.com/noixhwb) | [한상훈]() |
