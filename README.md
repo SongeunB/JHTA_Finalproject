@@ -58,17 +58,21 @@
 
 ## 🙋 개인담당 기능 상세보기
 
-| 📅 시간표 생성 | 📅 시간표 캡쳐 | 📅 시간표 저장&불러오기 |
-| :--: | :--: | :--: |
-| <img src="https://user-images.githubusercontent.com/84698168/156184483-03db9b04-26d5-4caa-a557-0b9cbd523ef4.gif" width=310px> | <img src="https://user-images.githubusercontent.com/84698168/156190596-4756a03e-cf33-4ee5-91e5-bbc73f123cad.gif" width=310px> | <img src="https://user-images.githubusercontent.com/84698168/156190096-98bbdc6f-3188-4894-8b7c-7c170ce6cf73.gif" width=310px> |
+| :balloon: 메인페이지 | 📅 시간표 생성 |
+| :--: | :--: |
+| <img src="https://user-images.githubusercontent.com/84698168/156184068-6f9d70af-4d74-43f0-89d1-7ebe64aa1043.gif" width=500px> | <img src="https://user-images.githubusercontent.com/84698168/156184483-03db9b04-26d5-4caa-a557-0b9cbd523ef4.gif" width=500px> |
 
-| 📝 강의목록 검색 | 📝 강의평가 보기&작성 | 📝 내 강의평가 수정&삭제 |
-| :--: | :--: | :---: |
-| <img src="https://user-images.githubusercontent.com/84698168/156184483-03db9b04-26d5-4caa-a557-0b9cbd523ef4.gif" width=310px> | <img src="https://user-images.githubusercontent.com/84698168/156190596-4756a03e-cf33-4ee5-91e5-bbc73f123cad.gif" width=310px> | <img src="https://user-images.githubusercontent.com/84698168/156190096-98bbdc6f-3188-4894-8b7c-7c170ce6cf73.gif" width=310px> |
+| 📅 시간표 캡쳐 | 📅 시간표 저장&불러오기 |
+| :--: | :--: |
+| <img src="https://user-images.githubusercontent.com/84698168/156190596-4756a03e-cf33-4ee5-91e5-bbc73f123cad.gif" width=500px> | <img src="https://user-images.githubusercontent.com/84698168/156190096-98bbdc6f-3188-4894-8b7c-7c170ce6cf73.gif" width=500px> |
 
-| 💯 시간표 생성 기능 | 💯 시간표 캡쳐 기능 | 💯 시간표 저장 및 불러오기 기능 |
-| :--: | :--: | :--: |
-| <img src="https://user-images.githubusercontent.com/84698168/156184483-03db9b04-26d5-4caa-a557-0b9cbd523ef4.gif" width=310px> | <img src="https://user-images.githubusercontent.com/84698168/156190596-4756a03e-cf33-4ee5-91e5-bbc73f123cad.gif" width=310px> | <img src="https://user-images.githubusercontent.com/84698168/156190096-98bbdc6f-3188-4894-8b7c-7c170ce6cf73.gif" width=310px> |
+| 📝 강의평가 보기&작성 | 📝 내 강의평가 수정&삭제 |
+| :--: | :--: |
+| <img src="https://user-images.githubusercontent.com/84698168/157881611-f2fc6c4a-7b7a-417b-a961-d375218793fb.gif" width=500px> | <img src="https://user-images.githubusercontent.com/84698168/157881767-06180ee6-e342-4b8f-8d63-1425168e363e.gif" width=500px> |
+
+| 💯 학점계산하기 | 💯 저장한 정보 불러오기 |
+| :--: | :--: |
+| <img src="https://user-images.githubusercontent.com/84698168/157882963-eb98c611-f7eb-4fa0-a995-95a5bd45087d.gif" width=500px> | <img src="https://user-images.githubusercontent.com/84698168/157882979-af5232de-e3a9-4dd6-9306-de40912ceca3.gif" width=500px> |
 
 ---
 
