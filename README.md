@@ -78,4 +78,4 @@
 
 ## 🌈 Members
 
-| [백송은](https://github.com/SongeunB) | [백승한](https://github.com/BaikSeunghan) | [안성진](https://github.com/lamgul) | [하지은](https://github.com/noixhwb) | [한상훈]() |
+| [백송은](https://github.com/SongeunB) | [백승한](https://github.com/BaikSeunghan) | [안성진](https://github.com/lamgul) | [하지은](https://github.com/noixhwb) | [한상훈](https://github.com/gkstkdgns123) |
